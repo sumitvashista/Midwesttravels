@@ -1,2 +1,2 @@
 # Midwesttravels
-Website on html
+Website using  html 5
